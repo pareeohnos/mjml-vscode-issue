@@ -1,0 +1,9 @@
+<mjml>
+  <mj-body background-color="#ECEDF4">
+    <mj-section background-color="#FFFFFF">
+      <mj-column>
+        <mj-text>Hello world. I'm from the include</mj-text>
+      </mj-column
+    </mj-section>
+  </mj-body>
+</mjml>

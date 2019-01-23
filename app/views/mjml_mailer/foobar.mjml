@@ -1,0 +1,14 @@
+<mjml>
+  <mj-head>
+    <mj-include path="../layouts/email_header_common.mjml" />
+  </mj-head>
+
+  <mj-body background-color="#ECEDF4">
+    <mj-include path="../layouts/email_body_common.mjml" />
+    <mj-section background-color="#FFFFFF">
+      <mj-column>
+        <mj-text>And I'm from the email itself</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
